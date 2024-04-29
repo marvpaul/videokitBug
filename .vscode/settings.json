@@ -52,5 +52,5 @@
         "Temp/": true
     },
     "dotnet.preferCSharpExtension": true,
-    "dotnet.defaultSolution": "VideoKitTest.sln"
+    "dotnet.defaultSolution": "videokitbug.sln"
 }
